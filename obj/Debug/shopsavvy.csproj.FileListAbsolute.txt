@@ -1,0 +1,4 @@
+C:\Users\appum\onedrive\documents\visual studio 2010\Projects\shopsavvy\shopsavvy\bin\shopsavvy.dll
+C:\Users\appum\onedrive\documents\visual studio 2010\Projects\shopsavvy\shopsavvy\bin\shopsavvy.pdb
+C:\Users\appum\onedrive\documents\visual studio 2010\Projects\shopsavvy\shopsavvy\obj\Debug\shopsavvy.dll
+C:\Users\appum\onedrive\documents\visual studio 2010\Projects\shopsavvy\shopsavvy\obj\Debug\shopsavvy.pdb
